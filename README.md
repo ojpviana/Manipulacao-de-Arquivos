@@ -14,7 +14,7 @@ O principal objetivo deste repositório é consolidar scripts práticos que demo
 ## ⚙️ Tecnologias Utilizadas
 
 * **Linguagem:** Python 3.13.3
-* **Módulos Nativos:** `os`, `shutil`, `pathlib` (para manipulação de caminhos e diretórios).
+* **Módulos Nativos:** `os` e `shutil` (para manipulação de caminhos e diretórios).
 
 ## 🚀 Como Executar os Scripts
 
