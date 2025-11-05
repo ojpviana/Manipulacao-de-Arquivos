@@ -25,7 +25,7 @@ Certifique-se de ter o Python instalado.
 
 ### 1. Clonar o Repositório 🔁
 
-git clone [https://github.com/oipviana/Manipulacao-de-Arquivos.git](https://github.com/ojpviana/Manipulacao-de-Arquivos.git)
+git clone [https://github.com/ojpviana/Manipulacao-de-Arquivos.git](https://github.com/ojpviana/Manipulacao-de-Arquivos.git)
 cd Manipulacao-de-Arquivos
 
 
